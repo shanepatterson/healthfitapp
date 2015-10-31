@@ -28,7 +28,7 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 /* Site container width */
 
 .container{
-	max-width:1170px;
+	max-width:970px;
 }
 
 /* = Blocs
