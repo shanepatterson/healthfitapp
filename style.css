@@ -101,10 +101,10 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 /* Bloc text custom styling */
 
 #bloc-0 h3{
-	font-size: 30px;
+	font-size: 20px;
 }
 #bloc-0 p{
-	font-size: 20px;
+	font-size: 15px;
 }
 
 /* = NavBar
